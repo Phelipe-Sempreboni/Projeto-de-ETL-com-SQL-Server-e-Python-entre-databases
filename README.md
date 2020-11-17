@@ -1,6 +1,8 @@
-# Projeto SQL Server x Python para dados ETL entre databases no SQL Server
+# Projeto SQL Server x Python para dados ETL (Extração, Transformação e Carregamento) entre databases no SQL Server
 
 #### Este projeto criado com base em um (business case) ou (caso de negócio) real, onde, foram utilizas as ferramentas SQL Server e Python para criação de uma ETL entre databases dentro do SQL Server. 
+
+#### Ferramentas utilizadas neste projeto: SQL Server Management Studio 2017 e Python versão 3.8 (64-bit)
 
 ---
 
@@ -15,3 +17,33 @@ Notar que faremos uma ETL entre databases dentro do SQL Server, porém, este pro
 Espero que este projeto ajude de alguma maneira seu processo, seu estudo, trabalho de faculdade ou curso, qualquer coisa só deixar um (ISSUE) no GitHub.
 
 ---
+
+#### Comandos que você e/ou aprenderá neste projeto do SQL Server:
+
+* USE.
+* BEGIN E END.
+* GO.
+* CREATE DATABASE com e sem parametros.
+* CREATE SCHEMA.
+* CREATE TABLE.
+* CREATE PROCEDURE convencional e criptografada.
+* DROP DATABASE.
+* DROP SCHEMA.
+* DROP TABLE.
+* INSERT INTO.
+* TRUNCATE TABLE.
+* SELECT.
+* COUNT.
+* EXEC / EXECUTE.
+* OPENROWSET.
+* SET NOCOUNT ON / OFF
+* IF.
+* WAITFOR DELAY.
+* sp_configure.
+* sp_MSSet_oledb_prop.
+* sp_help
+* sp_helptext
+
+---
+
+
