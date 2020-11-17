@@ -1,7 +1,10 @@
 # Projeto SQL Server x Python para dados ETL entre databases no SQL Server
 
----
 #### Este projeto criado com base em um (business case) ou (caso de negócio) real, onde, foram utilizas as ferramentas SQL Server e Python para criação de uma ETL entre databases dentro do SQL Server. 
+
+---
+
+Explicação do projeto (Business Case ou Caso de Negócio):
 
 Imagine que temos um database dentro do SQL Server Management Studio que seria o principal, onde este recebe as informações dos sistemas origem/legados da empresa e todos dados ficam alocados nele, por meio de schemas para realizar seus agrupamentos, onde temos ETLs (Extração, Transformação e Carregamentos) de dados por peridiocidade de acordo com a politica da empresa, setor, gerencia, diretoria e demanda dos usuários.
 
@@ -12,7 +15,3 @@ Notar que faremos uma ETL entre databases dentro do SQL Server, porém, este pro
 Espero que este projeto ajude de alguma maneira seu processo, seu estudo, trabalho de faculdade ou curso, qualquer coisa só deixar um (ISSUE) no GitHub.
 
 ---
-
-
-
-
