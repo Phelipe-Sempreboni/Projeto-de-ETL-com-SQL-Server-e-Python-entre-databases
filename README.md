@@ -46,4 +46,16 @@ Espero que este projeto ajude de alguma maneira seu processo, seu estudo, trabal
 
 ---
 
+#### Comandos que você e/ou aprenderá neste projeto do Python:
 
+Os comandos relacionados ao Python serão verificados de maneira mais fácil até para entedimento diretamente no arquivo do Python.
+
+---
+
+[Acesse meu GitHub :cat:](https://github.com/Phelipe-Sempreboni)
+
+[Acesse meu LinkedIn :computer:](https://www.linkedin.com/in/luiz-phelipe-utiama-sempreboni-319902169/)
+
+---
+
+_Espero que este projeto ajude no trabalho, estudos ou ideias_ :smiley:
