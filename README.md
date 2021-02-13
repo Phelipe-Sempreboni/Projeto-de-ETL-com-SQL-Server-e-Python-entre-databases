@@ -1,6 +1,6 @@
-# Projeto SQL Server x Python para dados ETL (Extração, Transformação e Carregamento) entre databases no SQL Server
+# Projeto de ETL com SQL Server e Python (Extração, Transformação e Carregamento) entre databases e tabela dentro do no SQL Server
 
-#### Este projeto criado com base em um (business case) ou (caso de negócio) real, onde, foram utilizas as ferramentas SQL Server e Python para criação de uma ETL entre databases dentro do SQL Server. 
+#### Este projeto foi criado com base em um (business case) ou (caso de negócio) real, onde, foram utilizas as ferramentas SQL Server e Python para criação de uma ETL entre databases dentro do SQL Server. 
 
 #### Ferramentas utilizadas neste projeto: SQL Server Management Studio 2017 e Python versão 3.8 (64-bit)
 
